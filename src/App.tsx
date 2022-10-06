@@ -20,7 +20,7 @@ const USER1:  User ={
   url: 'https://media-exp1.licdn.com/dms/image/C4E03AQH2DwWbx6NdrQ/profile-displayphoto-shrink_800_800/0/1642694690487?e=1670457600&v=beta&t=7grqCwOxLFc7FhivAOpI2WpSlLnIVqzd-G9NG46jCik',
   gender: 'M',
   role: 'React Developer',
-  isAdmin: false,
+  isAdmin: true,
 };
 
 const USER2:  User ={
