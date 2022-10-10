@@ -45,7 +45,7 @@ const USER4:  User ={
   id: '4',
   name: 'Vittorio Contena',
   url: 'https://media-exp1.licdn.com/dms/image/C4D03AQGQJwmqVwV9Tw/profile-displayphoto-shrink_800_800/0/1568661447957?e=1670457600&v=beta&t=EsGp1YHCu1LBAu1RtCOqF8YL5uAvPkaTNEQkYVR1t80',
-  gender: 'F',
+  gender: 'M',
   role: 'IT Assistant',
   isAdmin: true,
 };
